@@ -6,6 +6,7 @@ Object.freeze(assert);
 
 const chainMaker = require('../src/simple-chain.js');
 
+
 describe('Make chain!', () => {
     //Presence requirement
     describe('variable presence', () => {

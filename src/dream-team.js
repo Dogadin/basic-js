@@ -6,8 +6,6 @@ module.exports = function createDreamTeam(members) {
         .map(item => {
             return item.trim()[0].toUpperCase()
         }).sort()
-    const a = []
-    console.log(arr.join(''))
     return arr.join('')
 }
 
